@@ -28,5 +28,19 @@ public class Job {
 
 
 
+	/* (non-Javadoc)
+	 * @see java.lang.Object#toString()
+	 */
+	@Override
+	public String toString() {
+		return "Job [index=" + index + ", arriveTime=" + arriveTime
+				+ ", startTime=" + startTime + ", runningTime=" + runningTime
+				+ ", deadline=" + deadline + ", dataFile=" + dataFile + "]";
+	}
+	
+	
+
+
+
 
 }
