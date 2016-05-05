@@ -1,0 +1,5 @@
+Missed Rate = 0.19
+Count and average running time of each job by folder:
+input3	 count = 47	 avg = 2703
+input2	 count = 167	 avg = 1104
+input	 count = 86	 avg = 1725
